@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinjaKittie
 - 👀 I’m interested in ... nearly everything!
-- 🌱 I’m currently learning ... HTML5, CSS, Python, JS 
+- 🌱 I’m currently learning ... HTML5, CSS, Python, JS, PHP, Moodle 
 - 💞️ I’m looking to collaborate on ... nothing at the moment. Familiarizing myself with different platforms and modalities at my own pace.
 - 📫 How to reach me ... catch me if you can!
 
